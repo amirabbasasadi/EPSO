@@ -1,7 +1,7 @@
 # C++ Enhanced Particle Swarm Optimization Library
-- Multivariable Optimization
+- Multi-variable Optimization
 - Non-linear & Non-convex Optimization
-- Contrained Optimization
+- Constrained Optimization
 - Support For Continuous and Integer Variables
 - Mutation Operators
 

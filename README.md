@@ -4,6 +4,8 @@
 - Constrained Optimization
 - Support For Continuous and Integer Variables
 - Mutation Operators
+- Mutation Operators
+
 
 
 Author: Amirabbas Asadi, Computer Engineering Student, Interested in Optimization and Machine Learning  
